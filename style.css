@@ -131,7 +131,7 @@ hr {
 
 .footer {
     background-color: var(--primary-color);
-    padding: 2rem 0rem;
+    padding: 1rem 0rem;
     text-align: center;
     color: white;
 
@@ -149,3 +149,12 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+.footer ul li .fa{
+   font-size: 30px;
+   line-height: 60px;
+   transition: .6s;
+}
+
+.
+
