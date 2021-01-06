@@ -1,3 +1,3 @@
 # Personal Portfolio
 
-This repository holds the source code for my personal portfolio. 
+My Personal Portfolio built to showcase my technological skills & projects.
