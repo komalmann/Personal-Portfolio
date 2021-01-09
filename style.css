@@ -86,6 +86,7 @@ hr {
 .hero {
     padding: 2rem;
     padding-top: 5rem;
+    align-content: center;
 }
 
 .hero .hero-img {
