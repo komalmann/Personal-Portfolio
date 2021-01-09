@@ -67,6 +67,7 @@ hr {
 .navigation .nav-brand {
     font-weight: bolder;
     font-size: larger;
+    padding-top: 1rem;
 }
 
 .navigation .link {
@@ -134,7 +135,6 @@ hr {
     padding: 1rem 0rem;
     text-align: center;
     color: white;
-
 }
 
 .footer .footer-header {
@@ -156,5 +156,7 @@ hr {
    transition: .6s;
 }
 
-.
+.last{
+    padding-bottom: 5rem;
+}
 
